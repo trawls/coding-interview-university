@@ -268,7 +268,7 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 
 ### Interview Prep
 
-- [/] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
     - answers in C++ and Java
     - this is a good warm-up for Cracking the Coding Interview
     - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
@@ -503,7 +503,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+- [X] [Cheat sheet](http://bigocheatsheet.com/)
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
